@@ -109,8 +109,9 @@ app/
 
 | Участник | Роль | Задачи |
 |---|---|---|
-| **Таня** | Team Lead | API-интеграция (Retrofit, Spoonacular), главный экран со свайпами, экран поиска, экран деталей рецепта, настройка CI/CD |
-| **Алеся** | Developer | База данных (Room), экран избранного, экран "Мой холодильник", UI-компоненты, тестирование |
+| **Таня** | Team Lead | Настройка проекта и Gradle, интеграция Spoonacular API, тема Material3, экран Discover (Home), навигация (Bottom Navigation), DI и MainActivity, README |
+| **Олег** | Developer | Swipeable карточка рецепта, общие UI-компоненты, экран Search, экран деталей рецепта, CI/CD (GitHub Actions), документация и Wiki |
+| **Алеся** | Developer | Room база данных, Repository pattern, экран Favorites, экран My Fridge, Unit-тесты, UI-тесты |
 
 ## License
 
